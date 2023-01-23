@@ -1,4 +1,4 @@
-#JavaScript Fundamentals – Part 1
+# JavaScript Fundamentals – Part 1
 
 ## Coding Challenge #1
 
